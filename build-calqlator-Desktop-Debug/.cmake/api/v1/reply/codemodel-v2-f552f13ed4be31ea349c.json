@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "calqlator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "calqlator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calqlator-Debug-94989abac6f8b5248379.json",
+					"name" : "calqlator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calqlator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calqlator_autogen-Debug-ce57d579cbf7dd08d5ce.json",
+					"name" : "calqlator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calqlator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calqlator_autogen_timestamp_deps-Debug-1566cec4dc2ecff293e5.json",
+					"name" : "calqlator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/diaoko/coding/qt/calculator/build-calqlator-Desktop-Debug",
+		"source" : "/home/diaoko/coding/qt/calculator/calqlator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

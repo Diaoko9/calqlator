@@ -1,0 +1,9 @@
+# ninja log v5
+0	191	1719649881370172873	calqlator_autogen/timestamp	f1f96f4198b78f64
+0	191	1719649881370172873	calqlator_autogen/mocs_compilation.cpp	f1f96f4198b78f64
+0	191	1719649881370172873	/home/diaoko/coding/qt/calculator/build-calqlator-Desktop-Debug/calqlator_autogen/timestamp	f1f96f4198b78f64
+0	191	1719649881370172873	/home/diaoko/coding/qt/calculator/build-calqlator-Desktop-Debug/calqlator_autogen/mocs_compilation.cpp	f1f96f4198b78f64
+191	1368	1719649882554049436	CMakeFiles/calqlator.dir/calqlator_autogen/mocs_compilation.cpp.o	44e4c7c545910ef2
+191	1500	1719649882686034911	CMakeFiles/calqlator.dir/main.cpp.o	87a5702b17ecae65
+192	1512	1719649882698033591	CMakeFiles/calqlator.dir/calqlator.cpp.o	5dd29e2622ca6cea
+1512	1778	1719649882962004540	calqlator	5fe55dda1202eefa

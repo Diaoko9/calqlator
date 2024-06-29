@@ -1,0 +1,5 @@
+/home/diaoko/coding/qt/calculator/build-calqlator-Desktop-Debug/CMakeFiles/calqlator.dir
+/home/diaoko/coding/qt/calculator/build-calqlator-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/diaoko/coding/qt/calculator/build-calqlator-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/diaoko/coding/qt/calculator/build-calqlator-Desktop-Debug/CMakeFiles/calqlator_autogen_timestamp_deps.dir
+/home/diaoko/coding/qt/calculator/build-calqlator-Desktop-Debug/CMakeFiles/calqlator_autogen.dir
