@@ -1,0 +1,6 @@
+# ninja log v6
+2	402	1782467914115985238	calqlator_autogen/timestamp	90274e42fce8f345
+2	402	1782467914115985238	calqlator_autogen/mocs_compilation.cpp	90274e42fce8f345
+2	402	1782467914115985238	/home/diaoko/qtprojects/calqlator/calqlator/build/calqlator_autogen/timestamp	90274e42fce8f345
+2	402	1782467914115985238	/home/diaoko/qtprojects/calqlator/calqlator/build/calqlator_autogen/mocs_compilation.cpp	90274e42fce8f345
+402	1716	1782467914122985238	CMakeFiles/calqlator.dir/calqlator_autogen/mocs_compilation.cpp.o	bdab31f7311bd342

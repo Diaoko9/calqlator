@@ -1,5 +1,5 @@
-#include "calc.h"
-#include "ui_calc.h"
+#include "calqlator.h"
+#include "calqlator.ui"
 
 // Holds current value of calculation
 double calcVal = 0.0;
@@ -166,10 +166,10 @@ void Calc::ChangeNumberSign(){
 
     // Regular expression checks if it is a number
     // plus sign
-    QRegExp reg("[-+]?[0-9.]*");
+    QReqularExpression reg("[-+]?[0-9.]*");
 
     // If it is a number change the sign
-    if(reg.exactMatch(displayVal)){
+    if(reg.match(displayVal).hasMatch()){
         double dblDisplayVal = displayVal.toDouble();
         double dblDisplayValSign = -1 * dblDisplayVal;
 

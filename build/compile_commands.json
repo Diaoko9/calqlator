@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/diaoko/qtprojects/calqlator/calqlator/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/diaoko/qtprojects/calqlator/calqlator/build -I/home/diaoko/qtprojects/calqlator/calqlator/calqlator -I/home/diaoko/qtprojects/calqlator/calqlator/build/calqlator_autogen/include -isystem /home/diaoko/Qt/6.9.1/gcc_64/include/QtCore -isystem /home/diaoko/Qt/6.9.1/gcc_64/include -isystem /home/diaoko/Qt/6.9.1/gcc_64/mkspecs/linux-g++ -isystem /home/diaoko/Qt/6.9.1/gcc_64/include/QtWidgets -isystem /home/diaoko/Qt/6.9.1/gcc_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/calqlator.dir/calqlator_autogen/mocs_compilation.cpp.o -c /home/diaoko/qtprojects/calqlator/calqlator/build/calqlator_autogen/mocs_compilation.cpp",
+  "file": "/home/diaoko/qtprojects/calqlator/calqlator/build/calqlator_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/calqlator.dir/calqlator_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/diaoko/qtprojects/calqlator/calqlator/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/diaoko/qtprojects/calqlator/calqlator/build -I/home/diaoko/qtprojects/calqlator/calqlator/calqlator -I/home/diaoko/qtprojects/calqlator/calqlator/build/calqlator_autogen/include -isystem /home/diaoko/Qt/6.9.1/gcc_64/include/QtCore -isystem /home/diaoko/Qt/6.9.1/gcc_64/include -isystem /home/diaoko/Qt/6.9.1/gcc_64/mkspecs/linux-g++ -isystem /home/diaoko/Qt/6.9.1/gcc_64/include/QtWidgets -isystem /home/diaoko/Qt/6.9.1/gcc_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/calqlator.dir/main.cpp.o -c /home/diaoko/qtprojects/calqlator/calqlator/calqlator/main.cpp",
+  "file": "/home/diaoko/qtprojects/calqlator/calqlator/calqlator/main.cpp",
+  "output": "CMakeFiles/calqlator.dir/main.cpp.o"
+},
+{
+  "directory": "/home/diaoko/qtprojects/calqlator/calqlator/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/diaoko/qtprojects/calqlator/calqlator/build -I/home/diaoko/qtprojects/calqlator/calqlator/calqlator -I/home/diaoko/qtprojects/calqlator/calqlator/build/calqlator_autogen/include -isystem /home/diaoko/Qt/6.9.1/gcc_64/include/QtCore -isystem /home/diaoko/Qt/6.9.1/gcc_64/include -isystem /home/diaoko/Qt/6.9.1/gcc_64/mkspecs/linux-g++ -isystem /home/diaoko/Qt/6.9.1/gcc_64/include/QtWidgets -isystem /home/diaoko/Qt/6.9.1/gcc_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/calqlator.dir/calqlator.cpp.o -c /home/diaoko/qtprojects/calqlator/calqlator/calqlator/calqlator.cpp",
+  "file": "/home/diaoko/qtprojects/calqlator/calqlator/calqlator/calqlator.cpp",
+  "output": "CMakeFiles/calqlator.dir/calqlator.cpp.o"
+}
+]
