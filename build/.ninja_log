@@ -1,0 +1,10 @@
+# ninja log v6
+1	423	1788541111833794674	CalqlatorPro_autogen/timestamp	c531b2aae10b4a08
+1	423	1788541111833794674	CalqlatorPro_autogen/mocs_compilation.cpp	c531b2aae10b4a08
+1	423	1788541111833794674	/home/diaoko/qtprojects/calqlator/build/CalqlatorPro_autogen/timestamp	c531b2aae10b4a08
+1	423	1788541111833794674	/home/diaoko/qtprojects/calqlator/build/CalqlatorPro_autogen/mocs_compilation.cpp	c531b2aae10b4a08
+424	481	1788541111850791728	CMakeFiles/CalqlatorPro.dir/MathEngine.cpp.o	c6218663496e3c94
+423	2627	1788541111849791901	CMakeFiles/CalqlatorPro.dir/CalqlatorPro_autogen/mocs_compilation.cpp.o	954cb638e8f89c04
+423	2686	1788541111849791901	CMakeFiles/CalqlatorPro.dir/main.cpp.o	dc8f1a1b8d2de495
+424	3094	1788541111850791728	CMakeFiles/CalqlatorPro.dir/MainWindow.cpp.o	891bf0105a4d3988
+3095	3655	1788541114521329195	CalqlatorPro	95db1b8217cfe5d0

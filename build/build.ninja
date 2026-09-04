@@ -147,7 +147,7 @@ build CalqlatorPro_autogen/timestamp CalqlatorPro_autogen/mocs_compilation.cpp |
 #############################################
 # Phony custom command for CMakeFiles/CalqlatorPro_autogen_timestamp_deps
 
-build CMakeFiles/CalqlatorPro_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/CalqlatorPro_autogen_timestamp_deps: phony /home/diaoko/Qt/6.8.3/gcc_64/lib/libQt6Gui.so.6.8.3 /home/diaoko/Qt/6.8.3/gcc_64/lib/libQt6Core.so.6.8.3 /home/diaoko/Qt/6.8.3/gcc_64/libexec/moc /home/diaoko/Qt/6.8.3/gcc_64/lib/libQt6Widgets.so.6.8.3 /home/diaoko/Qt/6.8.3/gcc_64/libexec/uic
+build CMakeFiles/CalqlatorPro_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/CalqlatorPro_autogen_timestamp_deps: phony /home/diaoko/Qt/6.8.3/gcc_64/lib/libQt6Widgets.so.6.8.3 /home/diaoko/Qt/6.8.3/gcc_64/lib/libQt6Core.so.6.8.3 /home/diaoko/Qt/6.8.3/gcc_64/libexec/moc /home/diaoko/Qt/6.8.3/gcc_64/lib/libQt6Gui.so.6.8.3 /home/diaoko/Qt/6.8.3/gcc_64/libexec/uic
 
 
 #############################################
