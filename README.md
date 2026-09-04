@@ -34,3 +34,4 @@ The project strictly follows a decoupled design pattern:
    ```bash
    git clone [https://github.com/Diaoko9/calqlator.git](https://github.com/Diaoko9/calqlator.git)
    cd calqlator
+   ./CalqlatorPro
