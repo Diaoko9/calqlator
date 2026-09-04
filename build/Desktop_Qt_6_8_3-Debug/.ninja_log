@@ -1,0 +1,23 @@
+# ninja log v6
+2	28	1788420578636743373	CalqlatorPro_autogen/timestamp	aab8c0b7e33fdc65
+2	28	1788420578636743373	CalqlatorPro_autogen/mocs_compilation.cpp	aab8c0b7e33fdc65
+2	28	1788420578636743373	/home/diaoko/qtprojects/calqlator/build/Desktop_Qt_6_8_3-Debug/CalqlatorPro_autogen/timestamp	aab8c0b7e33fdc65
+2	28	1788420578636743373	/home/diaoko/qtprojects/calqlator/build/Desktop_Qt_6_8_3-Debug/CalqlatorPro_autogen/mocs_compilation.cpp	aab8c0b7e33fdc65
+28	43	1788420578641740538	CMakeFiles/CalqlatorPro.dir/CalqlatorPro_autogen/mocs_compilation.cpp.o	fac1bb9296d08f16
+28	43	1788420578641740538	CMakeFiles/CalqlatorPro.dir/main.cpp.o	2a704cd0b2e1c788
+29	43	1788420578642739971	CMakeFiles/CalqlatorPro.dir/MathEngine.cpp.o	dbb8f91854a60eeb
+2	237	1788420791139661501	CalqlatorPro_autogen/timestamp	aab8c0b7e33fdc65
+2	237	1788420791139661501	CalqlatorPro_autogen/mocs_compilation.cpp	aab8c0b7e33fdc65
+2	237	1788420791139661501	/home/diaoko/qtprojects/calqlator/build/Desktop_Qt_6_8_3-Debug/CalqlatorPro_autogen/timestamp	aab8c0b7e33fdc65
+2	237	1788420791139661501	/home/diaoko/qtprojects/calqlator/build/Desktop_Qt_6_8_3-Debug/CalqlatorPro_autogen/mocs_compilation.cpp	aab8c0b7e33fdc65
+237	253	1788420791143660474	CMakeFiles/CalqlatorPro.dir/MathEngine.cpp.o	dbb8f91854a60eeb
+237	1249	1788420791143660474	CMakeFiles/CalqlatorPro.dir/CalqlatorPro_autogen/mocs_compilation.cpp.o	fac1bb9296d08f16
+237	1298	1788420791143660474	CMakeFiles/CalqlatorPro.dir/main.cpp.o	2a704cd0b2e1c788
+238	1703	1788420791144660216	CMakeFiles/CalqlatorPro.dir/MainWindow.cpp.o	22d8c2d53678b260
+1703	1932	1788420792609284318	CalqlatorPro	820eaa4998e0274d
+3	19	1788420853163357505	CalqlatorPro_autogen/timestamp	aab8c0b7e33fdc65
+3	19	1788420853163357505	CalqlatorPro_autogen/mocs_compilation.cpp	aab8c0b7e33fdc65
+3	19	1788420853163357505	/home/diaoko/qtprojects/calqlator/build/Desktop_Qt_6_8_3-Debug/CalqlatorPro_autogen/timestamp	aab8c0b7e33fdc65
+3	19	1788420853163357505	/home/diaoko/qtprojects/calqlator/build/Desktop_Qt_6_8_3-Debug/CalqlatorPro_autogen/mocs_compilation.cpp	aab8c0b7e33fdc65
+19	1070	1788420853179354214	CMakeFiles/CalqlatorPro.dir/MainWindow.cpp.o	22d8c2d53678b260
+1070	1311	1788420854230138236	CalqlatorPro	820eaa4998e0274d

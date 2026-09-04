@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_CalqlatorPro_FILE /home/diaoko/qtprojects/calqlator/build/CalqlatorPro)
+set(__QT_DEPLOY_TARGET_CalqlatorPro_TYPE EXECUTABLE)

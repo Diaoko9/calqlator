@@ -1,0 +1,5 @@
+/home/diaoko/qtprojects/calqlator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/CalqlatorPro.dir
+/home/diaoko/qtprojects/calqlator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/edit_cache.dir
+/home/diaoko/qtprojects/calqlator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/rebuild_cache.dir
+/home/diaoko/qtprojects/calqlator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/CalqlatorPro_autogen_timestamp_deps.dir
+/home/diaoko/qtprojects/calqlator/build/Desktop_Qt_6_8_3-Debug/CMakeFiles/CalqlatorPro_autogen.dir

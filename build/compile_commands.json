@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/diaoko/qtprojects/calqlator/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/diaoko/qtprojects/calqlator/build/CalqlatorPro_autogen/include -isystem /home/diaoko/Qt/6.8.3/gcc_64/include/QtCore -isystem /home/diaoko/Qt/6.8.3/gcc_64/include -isystem /home/diaoko/Qt/6.8.3/gcc_64/mkspecs/linux-g++ -isystem /home/diaoko/Qt/6.8.3/gcc_64/include/QtGui -isystem /home/diaoko/Qt/6.8.3/gcc_64/include/QtWidgets -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/CalqlatorPro.dir/CalqlatorPro_autogen/mocs_compilation.cpp.o -c /home/diaoko/qtprojects/calqlator/build/CalqlatorPro_autogen/mocs_compilation.cpp",
+  "file": "/home/diaoko/qtprojects/calqlator/build/CalqlatorPro_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/CalqlatorPro.dir/CalqlatorPro_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/diaoko/qtprojects/calqlator/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/diaoko/qtprojects/calqlator/build/CalqlatorPro_autogen/include -isystem /home/diaoko/Qt/6.8.3/gcc_64/include/QtCore -isystem /home/diaoko/Qt/6.8.3/gcc_64/include -isystem /home/diaoko/Qt/6.8.3/gcc_64/mkspecs/linux-g++ -isystem /home/diaoko/Qt/6.8.3/gcc_64/include/QtGui -isystem /home/diaoko/Qt/6.8.3/gcc_64/include/QtWidgets -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/CalqlatorPro.dir/main.cpp.o -c /home/diaoko/qtprojects/calqlator/main.cpp",
+  "file": "/home/diaoko/qtprojects/calqlator/main.cpp",
+  "output": "CMakeFiles/CalqlatorPro.dir/main.cpp.o"
+},
+{
+  "directory": "/home/diaoko/qtprojects/calqlator/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/diaoko/qtprojects/calqlator/build/CalqlatorPro_autogen/include -isystem /home/diaoko/Qt/6.8.3/gcc_64/include/QtCore -isystem /home/diaoko/Qt/6.8.3/gcc_64/include -isystem /home/diaoko/Qt/6.8.3/gcc_64/mkspecs/linux-g++ -isystem /home/diaoko/Qt/6.8.3/gcc_64/include/QtGui -isystem /home/diaoko/Qt/6.8.3/gcc_64/include/QtWidgets -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/CalqlatorPro.dir/MathEngine.cpp.o -c /home/diaoko/qtprojects/calqlator/MathEngine.cpp",
+  "file": "/home/diaoko/qtprojects/calqlator/MathEngine.cpp",
+  "output": "CMakeFiles/CalqlatorPro.dir/MathEngine.cpp.o"
+},
+{
+  "directory": "/home/diaoko/qtprojects/calqlator/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/diaoko/qtprojects/calqlator/build/CalqlatorPro_autogen/include -isystem /home/diaoko/Qt/6.8.3/gcc_64/include/QtCore -isystem /home/diaoko/Qt/6.8.3/gcc_64/include -isystem /home/diaoko/Qt/6.8.3/gcc_64/mkspecs/linux-g++ -isystem /home/diaoko/Qt/6.8.3/gcc_64/include/QtGui -isystem /home/diaoko/Qt/6.8.3/gcc_64/include/QtWidgets -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -fPIC -o CMakeFiles/CalqlatorPro.dir/MainWindow.cpp.o -c /home/diaoko/qtprojects/calqlator/MainWindow.cpp",
+  "file": "/home/diaoko/qtprojects/calqlator/MainWindow.cpp",
+  "output": "CMakeFiles/CalqlatorPro.dir/MainWindow.cpp.o"
+}
+]

@@ -1,0 +1,5 @@
+/home/diaoko/qtprojects/calqlator/build/CMakeFiles/CalqlatorPro.dir
+/home/diaoko/qtprojects/calqlator/build/CMakeFiles/edit_cache.dir
+/home/diaoko/qtprojects/calqlator/build/CMakeFiles/rebuild_cache.dir
+/home/diaoko/qtprojects/calqlator/build/CMakeFiles/CalqlatorPro_autogen_timestamp_deps.dir
+/home/diaoko/qtprojects/calqlator/build/CMakeFiles/CalqlatorPro_autogen.dir
