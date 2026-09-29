@@ -1,4 +1,4 @@
-# CalqlatorPro
+# Calqlator
 
 A modern, cross-platform calculator application built with **C++17** and **Qt 6.8.3**. 
 
