@@ -7,6 +7,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTORCC ON)
+set(CMAKE_AUTOUIC ON)
 
 # Require exactly 6.8.3 or newer
 find_package(Qt6 6.8.3 REQUIRED COMPONENTS Core Gui Widgets)
@@ -14,8 +15,11 @@ find_package(Qt6 6.8.3 REQUIRED COMPONENTS Core Gui Widgets)
 # Add the 'src/' prefix to your files
 add_executable(CalqlatorPro
     src/main.cpp
-    src/MathEngine.cpp src/MathEngine.h
-    src/MainWindow.cpp src/MainWindow.h
+    src/MainWindow.cpp
+    src/MainWindow.h
+    src/MathEngine.cpp
+    src/MathEngine.h
+    src/mainwindow.ui
 )
 
 target_link_libraries(CalqlatorPro PRIVATE Qt6::Core Qt6::Gui Qt6::Widgets)
